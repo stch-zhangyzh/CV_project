@@ -6,7 +6,9 @@ The aim of this project is to apply anomaly detection in [MVTev_AD dataset](http
 
 Among current SOTA algorithms involves GAN, CAEs, CNN feature dictionary and variation model have been suggested to tackle the problem.
 
-In this project, we use GAN and CNN based model to assess their performance for segmentation and classification of images in [MVTev_AD dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
+In this project, we use CNN dictionary based model to assess their performance for segmentation and classification of images in [MVTev_AD dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad/).
+
+And comparing it with f-AnoGAN, which has already exist [pytorch code](https://github.com/eriklindernoren/PyTorch-GAN) 
 
 Our team members:
 
@@ -52,6 +54,8 @@ We generate the threshold for patch and acceptable rate for image in `./thres.np
 We generate the list of detection result of each patch in `./AD_result.npz`
 
 ## Run AnoGAN
+
+The exist [pytorch code](https://github.com/eriklindernoren/PyTorch-GAN) has been modified to be easy to run.
 
 Go to run the AnoGAN:
 
