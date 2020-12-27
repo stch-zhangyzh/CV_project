@@ -21,7 +21,7 @@ Yifeng Li (liyf1@shanghaitech.edu.cn)
 Zheng Shu (shuzheng@shanghaitech.edu.cn)
 
 ## Installation
-`git clone https://github.com/zhangyzh-stch/CV_project`
+`git clone https://github.com/stch-zhangyzh/CV_project`
 
 `cd CV_project/`
 
