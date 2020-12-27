@@ -69,7 +69,7 @@ bottle, cable, capsule, carpet, grid, hazelnut, leather, metal_nut, pill, screw,
 
 The detailed process is shown in this picture from this paper [f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S1361841518302640/pdfft?md5=298d7dd0f4f19af16e2548acad5d381a&pid=1-s2.0-S1361841518302640-main.pdf)
 
-![1](https://github.com/zhangyzh-stch/CV_project/blob/main/Pictures/1.png)
+![1](https://github.com/stch-zhangyzh/CV_project/blob/main/Pictures/1.png)
 
 You can find the output of generator in `{dataset_name}_results/images/` to check the training processes of the generator.
 
@@ -81,7 +81,7 @@ The trained generator and discriminator will be saved in `{dataset_name}_results
 
 The detailed process is shown in this picture from this paper [f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S1361841518302640/pdfft?md5=298d7dd0f4f19af16e2548acad5d381a&pid=1-s2.0-S1361841518302640-main.pdf)
 
-![2](https://github.com/zhangyzh-stch/CV_project/blob/main/Pictures/2.png)
+![2](https://github.com/stch-zhangyzh/CV_project/blob/main/Pictures/2.png)
 
 You can find the output of the reconfigurated pictures in `{dataset_name}_results/images_e/` to check the training processes of the auto-encoder.
 
